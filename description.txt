@@ -1,0 +1,3 @@
+you need to connect the tx and rx of bluetooth module to the Required of the FPGA board.
+And try connecting the bluetooth with your phn and then send some data from phn and u can display in the FPGA BOARD using the led light or
+in seven segment display.
